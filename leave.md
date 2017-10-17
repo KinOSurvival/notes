@@ -1,4 +1,4 @@
-# leave balance total 11
+# leave balance
 1. 0503   1  day
 2. 0504   1  day
 3. 0505   1  day
@@ -11,5 +11,5 @@
 10. 1009  1  小朋友生病
 11. 1010  1  小朋友生病 年假
 
-leave balance    now  0
+leave balance total 11   now  0
 今年年假减7天,     还剩3天
